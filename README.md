@@ -61,10 +61,9 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
 
 ### 10. Project Publishing and Documentation
-   - **Documentation**: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
-   - **Project Publishing**: Publish the completed project on GitHub or any other version control platform, including:
+   - **Documentation**: Maintained well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
+   - **Project Publishing**: Published the completed project on GitHub or any other version control platform, including:
      - The `README.md` file (this document).
-     - Jupyter Notebooks (if applicable).
      - SQL query scripts.
      - Data files (if possible) or steps to access them.
 
@@ -73,9 +72,9 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Requirements
 
 - **Python 3.10+**
-- **SQL Databases**: MySQL, PostgreSQL
+- **SQL Databases**: MySQL
 - **Python Libraries**:
-  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
+  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`
 - **Kaggle API Key** (for data downloading)
 
 ## Getting Started
@@ -120,15 +119,9 @@ Possible extensions to this project:
 
 ---
 
-## License
-
-This project is licensed under the License. 
-
----
-
 ## Acknowledgments
 
 - **Data Source**: Kaggle’s Walmart Sales Dataset
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+- **Inspiration**: Walmart’s business case studies on sales and supply chain optimisation.
 
 ---
