@@ -111,11 +111,8 @@ This section will include your analysis findings:
 - **Customer Behaviour**: Trends in ratings, payment preferences, and peak shopping hours.
 
 ## Future Enhancements
-
-Possible extensions to this project:
-- Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualisation.
-- Additional data sources to enhance analysis depth.
-- Automation of the data pipeline for real-time data ingestion and analysis.
+- Integrated a Power BI dashboard for interactive visualisation.
+![Power BI Dashboard](https://github.com/RashWadhwa/Project_Walmart/blob/main/Dashboard%20Walmart.png)
 
 ---
 
