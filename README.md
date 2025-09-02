@@ -4,7 +4,7 @@
 
 ![Project Diagram](https://github.com/RashWadhwa/Project_Walmart/blob/main/Diagram_Project_Walmart.png)
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilise Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for developing skills in data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilise Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for developing skills in data manipulation, SQL querying, and data pipeline creation.
 
 ---
 ## Project Steps
